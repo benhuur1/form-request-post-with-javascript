@@ -1,0 +1,16 @@
+{
+  "usuario": [
+    {
+      "id": "email@eideveloper.com.br",
+      "nome": "Nome Exemplo",
+      "email": "exemplo@emil.com.br",
+      "telefone": "1199123-4567"
+    },
+    {
+      "id": "contato@eideveloper.com.br",
+      "nome": "José Ben Hur",
+      "email": "contato@eideveloper.com.br",
+      "telefone": "11991234567"
+    }
+  ]
+}

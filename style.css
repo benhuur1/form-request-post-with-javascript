@@ -1,0 +1,40 @@
+label {
+  color: grey;
+}
+input{
+  background-color: black!important;
+  border: solid 1px grey!important;
+  color: white!important;
+}
+.text-orange {
+  color: #FA9000 !important;
+}
+.btn-orange {
+  color: #fff;
+  background-color: #FA9000;
+  border-color: #FA9000;
+}
+.btn-orange:hover {
+  color: #fff;
+  background-color: #d47a00;
+  border-color: #c77300;
+}
+.btn-orange:focus, .btn-orange.focus {
+  color: #fff;
+  background-color: #d47a00;
+  border-color: #c77300;
+  box-shadow: 0 0 0 0.2rem rgba(217, 128, 6, 0.5);
+}
+.btn-orange.disabled, .btn-orange:disabled {
+  color: #fff;
+  background-color: #FA9000;
+  border-color: #FA9000;
+}
+.btn-orange:not(:disabled):not(.disabled):active, .btn-orange:not(:disabled):not(.disabled).active, .show > .btn-orange.dropdown-toggle {
+  color: #fff;
+  background-color: #c77300;
+  border-color: #ba6b00;
+}
+.btn-orange:not(:disabled):not(.disabled):active:focus, .btn-orange:not(:disabled):not(.disabled).active:focus, .show > .btn-orange.dropdown-toggle:focus {
+  box-shadow: 0 0 0 0.2rem rgba(217, 128, 6, 0.5);
+}
